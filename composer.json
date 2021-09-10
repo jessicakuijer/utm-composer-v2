@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "dizagn/utm": "utm2",
+        "dizagn/utm": "dev-utm2",
         "php": ">=7.0"
     }
 }
