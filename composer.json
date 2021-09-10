@@ -1,0 +1,22 @@
+{
+    "name": "dizagn/utm-composer",
+    "description": "Template to create website using UTM framework and composer",
+    "type": "project",
+    "keywords": ["framework", "mvc", "utm", "microframework"],
+    "authors": [
+        {
+            "name": "Nico",
+            "email": "niko@dizagn.com",
+            "homepage": "https://www.dizagn.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dizagn/utm"
+        }
+    ],
+    "require": {
+        "dizagn/utm": "dev-master"
+    }
+}
