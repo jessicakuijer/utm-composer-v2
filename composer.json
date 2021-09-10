@@ -2,7 +2,7 @@
     "name": "dizagn/utm-composer",
     "description": "Template to create website using UTM framework and composer",
     "type": "project",
-    "licence": " BSD-3-Clause",
+    "licence": "BSD-3-Clause",
     "keywords": ["framework", "mvc", "utm", "microframework"],
     "authors": [
         {
